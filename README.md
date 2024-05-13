@@ -3,9 +3,10 @@
 
 - 👨‍💻 I’m currently working in [Makr Shakr](https://makrshakr.com)
 
+- 📫 and in [Sanoma / Fanuc](https://sanoma.it/sanoma-fanuc-robotica/certificazione-di-programmazione)
+
 - 🌱 I’m currently learning **ROS and other things about industrial automation**
 
-- 📫 and in [Sanoma / Fanuc](https://sanoma.it/sanoma-fanuc-robotica/certificazione-di-programmazione)
 
 - 📝 I regularly write articles on [https://simonetraversi.it](https://simonetraversi.it)
 
