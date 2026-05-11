@@ -43,4 +43,4 @@ My day-to-day spans full-stack web apps, kiosk UIs, embedded IoT systems, and cl
 ## 📝 Writing & Portfolio
 
 - 📄 Blog: [simonetraversi.it](https://simonetraversi.it)
-- 📃 Resume: [simonetraversi.it/resume](https://www.simonetraversi.it/simoneTraversiResume.pdf)
+- 📃 Resume: [simonetraversi.it/resume](https://simonetraversi.it/resume)
