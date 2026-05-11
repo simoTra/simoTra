@@ -35,13 +35,8 @@ My day-to-day spans full-stack web apps, kiosk UIs, embedded IoT systems, and cl
 `MongoDB` · `PostgreSQL` · `Redis`
 
 **Embedded & Hardware**
-`ESP32 / ESP-IDF / FreeRTOS` · `Arduino` · `Klipper / 3D Printing` · `ROS (learning)`
+`ESP32 / ESP-IDF / FreeRTOS` · `Arduino` · `Klipper / 3D Printing` · `ROS` · `C/C++` 
 
----
-
-## 🌱 Learning
-
-`ROS` · `Industrial automation` · `Go`
 
 ---
 
